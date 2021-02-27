@@ -15,6 +15,8 @@ A simple puppy adoption app that let's you browse puppies up for adoption.
 <!--- What are you especially proud of? -->
 Puppy's are cute. Why would anyone resist the urge to make an adoption app?
 
+Also, I'm allergic to cats so...
+
 In all seriousness, using Compose was a great breath of fresh air from the traditional XML-style layouts. I especially like assigning a file to a Compose screen which makes everything comprehensible while still keeping a one-Activity style architecture. 
 
 ## :camera_flash: Screenshots
